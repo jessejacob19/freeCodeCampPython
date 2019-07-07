@@ -1,0 +1,27 @@
+print("Giraffe\nAcademy\"")
+# \" gives "
+# \n is new line
+#single line comment
+
+'''
+multi
+line
+comment
+'''
+
+phrase = "Giraffe Academy"
+print(phrase[0])
+'''
+lower()
+islower()
+upper()
+isupper()
+len()
+
+'''
+print(phrase.index("G"))
+print(phrase.index(" Ac"))
+print(phrase.replace("Giraffe", "Donkey"))
+
+
+
