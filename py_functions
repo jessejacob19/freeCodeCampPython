@@ -1,0 +1,10 @@
+def sayhi(name):
+    print("Hello {}".format(name))
+
+sayhi("mike")
+
+#return statement
+def cubed(num):
+    return num * num * num
+
+print(cubed(3))
